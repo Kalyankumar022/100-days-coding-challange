@@ -15,7 +15,7 @@ It is an interpreted language, which means that code can be executed line by lin
 # Applications of Python
 Python is popular in various domains such as web development, data science, artificial intelligence, and more.
 
-# Just i am Sharing my eXperiences. It gives you well understanding
+# Just i am Sharing my eXperiences. It gives you well understanding.
 
 #Day1
 1st Day Started with "Hello World" program
