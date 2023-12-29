@@ -40,3 +40,19 @@ if as_my_result:
 
 else:
         print("State ment is not correct")
+        
+        
+        
+#DAY-8 of 100 days code challange.
+#problems on the Modulus operator
+
+#given a two digit number
+
+#Print "Lucky number"
+
+#condition 1 
+# The number is a multiple at 9
+# One of the digit is 9
+
+value = int(18)
+print(value)

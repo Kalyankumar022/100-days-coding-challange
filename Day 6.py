@@ -74,3 +74,12 @@ if is_possible(number):
 else:
     print("Not Possible")
 
+
+a = int(1)
+b = int(2)
+
+a = b*3
+print(a)
+
+number = a<=10
+print(number)
