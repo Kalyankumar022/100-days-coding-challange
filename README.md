@@ -46,5 +46,7 @@ values can perform of numbers, strings, booleans, Integers, Float by assignment 
 
 ex:- (2.5, 3.5, 4.9, 10.1)
 
+#meaning of variables.
+variables are like a logical containers which can store all the values or data types by the assigning operatior.
 
 
