@@ -31,4 +31,20 @@ A syntax error in Python occurs when the code violates the language's rules for 
 
 print("Hello, World"  # Missing closing parenthesis
 
-# like the same way error will happens in the python Code
+# like the same way error will happens in the python Code.
+
+
+Day-2
+values and variables.
+
+values can perform of numbers, strings, booleans, Integers, Float by assignment operator (=)
+
+1.string is nothing but a stream of characters (" ")
+2. Integers can be defined as a numbers either positive or negative numbers 
+3. Booleans are ( True or false)
+4. Float can be known as numbers with decimal points 
+
+ex:- (2.5, 3.5, 4.9, 10.1)
+
+
+
